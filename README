@@ -1,0 +1,7 @@
+
+
+prog1.java is the first version.This code calculate the sum of the first 100 numbers in csvfile.csv in column 1.
+
+prog2.java is the second version. This code can calculate the sum of arbitrary number of numbers in column 1.
+
+prog3.java is the third version. You can specify the range and number of numbers to be calculated in column 1.
